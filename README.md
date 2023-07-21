@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 hrs 14 mins
+Total Time: 61 hrs 35 mins
 
-Go                25 hrs 10 mins  >>>>>>>>>>>>-------------   48.19 %
-JavaScript        9 hrs 17 mins   >>>>---------------------   17.80 %
-TypeScript        3 hrs 50 mins   >>-----------------------   07.35 %
-SQL               3 hrs 18 mins   >>-----------------------   06.34 %
-YAML              2 hrs 29 mins   >------------------------   04.77 %
+Go                29 hrs 40 mins  >>>>>>>>>>>>-------------   48.18 %
+JavaScript        9 hrs 30 mins   >>>>---------------------   15.44 %
+SQL               4 hrs 44 mins   >>-----------------------   07.70 %
+TypeScript        3 hrs 57 mins   >>-----------------------   06.43 %
+Vue.js            3 hrs 20 mins   >------------------------   05.41 %
 ```
 
 <!--END_SECTION:waka-->
